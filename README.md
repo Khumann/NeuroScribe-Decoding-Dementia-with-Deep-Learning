@@ -1,1 +1,1 @@
-NeuroScribe
+The dataset used in this study comprises MRI images, which were preprocessed and augmented to increase the robustness of the model. Images were resized to 128x128 pixels and categorized into the four aforementioned classes. A custom CNN architecture was developed with multiple convolutional layers, batch normalization, max-pooling, and dropout layers to prevent overfitting. The model was trained on a subset of the data and evaluated on a holdout test set to assess its performance.
